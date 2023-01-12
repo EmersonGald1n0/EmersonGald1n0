@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Emerson+Galdino;I'm+23+years+old;I'm+from+Brazil;I'm+a+Systems+Analysis+and+Development+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+<div align="center" />
 
 <div align="center"> 
 <a href="https://instagram.com/yosoygaldino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
